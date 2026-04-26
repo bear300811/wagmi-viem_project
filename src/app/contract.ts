@@ -1,5 +1,5 @@
 export const contractABI = {
-  address: '0x3c725134d74D5c45B4E4ABd2e5e2a109b5541288',
+  address: '0xD6A2a3171805dbAEc20Ae27e0Ea8df47F04bfE3e',
   abi: [
     {
       inputs: [],
